@@ -12,12 +12,17 @@ Este projeto contém as páginas HTML semânticas da ONG Freedom:
 
 ONGFreedom_Atividade1/
 ├── index.html
+
 ├── projetos.html
+
 ├── cadastro.html
+
 ├── css/
 │   └── style.css
+
 ├── js/
 │   └── menu.js
+
 └── img/
     ├── logo.jpg
     ├── projeto1.jpg
